@@ -1,2 +1,2 @@
 # VR-Solar-System
-A Google Cardboard VR game created using Unity and C# scripts.
+Independantly created this Google Cardboard VR game using Unity and C# scripts at the HackMIT 2016 hackathon.
